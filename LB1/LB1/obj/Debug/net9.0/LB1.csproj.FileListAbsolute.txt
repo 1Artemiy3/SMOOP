@@ -1,0 +1,14 @@
+C:\Programing 3SEM\LB1\LB1\bin\Debug\net9.0\LB1.exe
+C:\Programing 3SEM\LB1\LB1\bin\Debug\net9.0\LB1.deps.json
+C:\Programing 3SEM\LB1\LB1\bin\Debug\net9.0\LB1.runtimeconfig.json
+C:\Programing 3SEM\LB1\LB1\bin\Debug\net9.0\LB1.dll
+C:\Programing 3SEM\LB1\LB1\bin\Debug\net9.0\LB1.pdb
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\LB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\LB1.AssemblyInfoInputs.cache
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\LB1.AssemblyInfo.cs
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\LB1.csproj.CoreCompileInputs.cache
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\LB1.dll
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\refint\LB1.dll
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\LB1.pdb
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\LB1.genruntimeconfig.cache
+C:\Programing 3SEM\LB1\LB1\obj\Debug\net9.0\ref\LB1.dll

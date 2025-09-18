@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Author>Стівен Кінг</Author>
+    <Title>Зелена миля</Title>
+    <Year>1996</Year>
+    <TotalCopies>10</TotalCopies>
+    <TakenCopies>8</TakenCopies>
+  </Book>
+  <Book>
+    <Author>Джордж Мартін</Author>
+    <Title>Гра престолів</Title>
+    <Year>1996</Year>
+    <TotalCopies>7</TotalCopies>
+    <TakenCopies>6</TakenCopies>
+  </Book>
+  <Book>
+    <Author>Дж. К. Ролінг</Author>
+    <Title>Гаррі Поттер і філософський камінь</Title>
+    <Year>1997</Year>
+    <TotalCopies>15</TotalCopies>
+    <TakenCopies>13</TakenCopies>
+  </Book>
+  <Book>
+    <Author>Дж. К. Ролінг</Author>
+    <Title>Гаррі Поттер і таємна кімната</Title>
+    <Year>1998</Year>
+    <TotalCopies>12</TotalCopies>
+    <TakenCopies>10</TakenCopies>
+  </Book>
+</ArrayOfBook>
