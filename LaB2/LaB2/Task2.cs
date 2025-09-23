@@ -10,7 +10,7 @@ namespace LaB2
     {
         public static void Run()
         {
-            Console.Write("Введіть назву файлу для аналізу (наприклад, text.txt): ");
+            Console.Write("Введіть назву файлу для аналізу ");
             string fileName = Console.ReadLine() ?? "text.txt";
 
             if (!File.Exists(fileName))
@@ -35,3 +35,4 @@ namespace LaB2
         }
     }
 }
+
