@@ -1,0 +1,14 @@
+C:\Programing 3SEM\LaB2\LaB2\bin\Debug\net9.0\LaB2.exe
+C:\Programing 3SEM\LaB2\LaB2\bin\Debug\net9.0\LaB2.deps.json
+C:\Programing 3SEM\LaB2\LaB2\bin\Debug\net9.0\LaB2.runtimeconfig.json
+C:\Programing 3SEM\LaB2\LaB2\bin\Debug\net9.0\LaB2.dll
+C:\Programing 3SEM\LaB2\LaB2\bin\Debug\net9.0\LaB2.pdb
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\LaB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\LaB2.AssemblyInfoInputs.cache
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\LaB2.AssemblyInfo.cs
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\LaB2.csproj.CoreCompileInputs.cache
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\LaB2.dll
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\refint\LaB2.dll
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\LaB2.pdb
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\LaB2.genruntimeconfig.cache
+C:\Programing 3SEM\LaB2\LaB2\obj\Debug\net9.0\ref\LaB2.dll
